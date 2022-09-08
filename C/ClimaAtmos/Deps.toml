@@ -33,3 +33,6 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 StochasticDiffEq = "789caeaf-c7a9-5a7d-9973-96adeb23e2a0"
 SurfaceFluxes = "49b00bb7-8bd4-4f2b-b78c-51cd0450215f"
+
+["0.4-0"]
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
